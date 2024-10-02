@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+
+![Yaralisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yaralisa\&rank_icon=github\&show_icons=true\&theme=blue-green\&title_color=00b3ff)
+[![Yaralisa's current streak](https://streak-stats.demolab.com/?user=Yaralisa&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
+
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+
+
+![](https://komarev.com/ghpvc/?username=Yaralisa)
